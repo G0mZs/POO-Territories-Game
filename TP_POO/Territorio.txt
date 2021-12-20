@@ -1,0 +1,3 @@
+cria Planicie 2
+cria Pescaria 3
+cria Refugio dos Piratas 2
